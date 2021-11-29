@@ -1,0 +1,26 @@
+# Module
+node_modules/*
+node_modules/
+node_modules
+
+# VS code
+.vscode
+.vscode-test
+
+# Environment
+*.env
+.env
+
+# Production / Build
+dist/*
+dist/
+dist
+
+# Log
+logs
+*.log
+
+# other
+*.tgz
+*.zip
+*.rar
